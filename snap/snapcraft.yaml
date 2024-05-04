@@ -43,6 +43,7 @@ parts:
     build-packages:
       - libssl-dev
       - uuid-dev
+      - libjsoncpp-dev
     override-prime: ''
 
   libxmlplusplus:
